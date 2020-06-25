@@ -2,7 +2,7 @@
   <div id="app">
 
     <header>
-      <h1>My Music App</h1>
+      <h1>Nithin's Music App</h1>
     </header>
 
     <main>
@@ -55,7 +55,28 @@ export default {
             title:'Mersal',
             artist:'AR Rahman',
             src:require('./assets/mersal.mp3')
-          }
+          },
+
+
+           {
+            title:'Nenjukkul Peidhidum',
+            artist:'Harris Jayaraj',
+            src:require('./assets/Vaaranam Aayiram - Nenjukkul Peidhidum .mp3')
+           },
+
+           {
+            title:'Sutrum Vizli',
+            artist:'Harris Jayaraj',
+            src:require('./assets/Sutrum Vizli Video Song - Ghajini Suriya Asin Nayanthara Harris Jayaraj A.R. Murugados.mp3')
+           },
+
+
+          {
+            title:'Pachchai Nirame',
+            artist:'AR Rahman',
+            src:require('./assets/Alaipayuthey Pachchai Nirame song.mp3')
+           }
+
 
 
        ],
