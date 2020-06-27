@@ -46,36 +46,43 @@ export default {
 
        songs:[
           {
-            title:'Vaathi Comming',
-            artist:'Anirudh',
-            src:require('./assets/vathy.mp3')
+            title:'MBB',
+            artist:'Feel Good [NCS BEST OF].mp3',
+            src:require('./assets/MBB - Feel Good [NCS BEST OF].mp3')
           },
 
          {
-            title:'Mersal',
-            artist:'AR Rahman',
-            src:require('./assets/mersal.mp3')
+            title:'Syn Cole',
+            artist:'Feel Good [NCS Release].mp3',
+            src:require('./assets/Syn Cole - Feel Good [NCS Release].mp3')
           },
 
 
            {
-            title:'Nenjukkul Peidhidum',
-            artist:'Harris Jayaraj',
-            src:require('./assets/Vaaranam Aayiram - Nenjukkul Peidhidum .mp3')
+            title:'Alan Walker',
+            artist:'Fade [NCS Release].mp3',
+            src:require('./assets/Alan Walker - Fade [NCS Release].mp3')
            },
 
            {
-            title:'Sutrum Vizli',
-            artist:'Harris Jayaraj',
-            src:require('./assets/Sutrum Vizli Video Song - Ghajini Suriya Asin Nayanthara Harris Jayaraj A.R. Murugados.mp3')
+            title:'Anikdote',
+            artist:'Imma Killa [NCS Release]',
+            src:require('./assets/Anikdote - Imma Killa [NCS Release].mp3')
            },
 
 
           {
-            title:'Pachchai Nirame',
-            artist:'AR Rahman',
-            src:require('./assets/Alaipayuthey Pachchai Nirame song.mp3')
-           }
+            title:'Janji',
+            artist:'Heroes Tonight (feat. Johnning) [NCS Release].mp3',
+            src:require('./assets/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3')
+           },
+
+
+            {
+            title:'JJD',
+            artist:' Adventure [NCS Release].mp3',
+            src:require('./assets/JJD - Adventure [NCS Release].mp3')
+            }
 
 
 
